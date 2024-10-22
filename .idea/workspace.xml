@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="65e31dd9-e65a-4331-8584-353882fccf3c" name="Changes" comment="dasda">
-      <change afterPath="$PROJECT_DIR$/src/Ex_4_22102024_CSS_Selector/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_4_22102024_CSS_Selector/test_Lab12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_4_22102024_CSS_Selector/test_Lab13.py" afterDir="false" />
+    <list default="true" id="65e31dd9-e65a-4331-8584-353882fccf3c" name="Changes" comment="22nd Oct">
+      <change afterPath="$PROJECT_DIR$/src/Ex_4_22102024_CSS_Selector/test_Lab14_Explicit_Fluent_Wait.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_4_22102024_CSS_Selector/test_Lab14_Explicit_Wait.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,6 +62,8 @@
     "Python tests.Python tests for test_Lab10.test_4.executor": "Run",
     "Python tests.Python tests for test_Lab11.test_5.executor": "Run",
     "Python tests.Python tests for test_Lab13.test_5.executor": "Run",
+    "Python tests.Python tests for test_Lab14.test_5.executor": "Run",
+    "Python tests.Python tests for test_Lab14_Explicit_Fluent_Wait.test_5.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
@@ -76,34 +77,19 @@
       <recent name="$PROJECT_DIR$/src/ex_2_17102024_Selenium" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test_Lab13.test_5">
-    <configuration name="Python tests for test_Lab09.test_negative_vwo_free_trail_project3" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Python tests for test_Lab14_Explicit_Fluent_Wait.test_5">
+    <configuration name="Python tests for src.Ex_4_22102024_CSS_Selector.test_Lab14_Explicit_Wait.test_5" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Py4XLearningSeleniumPrograms" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_3_19102024_Locators" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Ex_4_22102024_CSS_Selector" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab09.test_negative_vwo_free_trail_project3&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for test_Lab09.test_negative_vwo_login_project2" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="Py4XLearningSeleniumPrograms" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_3_19102024_Locators" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab09.test_negative_vwo_login_project2&quot;" />
+      <option name="_new_target" value="&quot;src.Ex_4_22102024_CSS_Selector.test_Lab14_Explicit_Wait.test_5&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -152,13 +138,28 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests for test_Lab14_Explicit_Fluent_Wait.test_5" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Py4XLearningSeleniumPrograms" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Ex_4_22102024_CSS_Selector" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Lab14_Explicit_Fluent_Wait.test_5&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for test_Lab14_Explicit_Fluent_Wait.test_5" />
+        <item itemvalue="Python tests.Python tests for src.Ex_4_22102024_CSS_Selector.test_Lab14_Explicit_Wait.test_5" />
         <item itemvalue="Python tests.Python tests for test_Lab13.test_5" />
         <item itemvalue="Python tests.Python tests for test_Lab11.test_5" />
         <item itemvalue="Python tests.Python tests for test_Lab10.test_4" />
-        <item itemvalue="Python tests.Python tests for test_Lab09.test_negative_vwo_free_trail_project3" />
-        <item itemvalue="Python tests.Python tests for test_Lab09.test_negative_vwo_login_project2" />
       </list>
     </recent_temporary>
   </component>
@@ -186,11 +187,20 @@
       <option name="project" value="LOCAL" />
       <updated>1729306360774</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="22nd Oct">
+      <option name="closed" value="true" />
+      <created>1729563966611</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1729563966611</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="dasda" />
-    <option name="LAST_COMMIT_MESSAGE" value="dasda" />
+    <MESSAGE value="22nd Oct" />
+    <option name="LAST_COMMIT_MESSAGE" value="22nd Oct" />
   </component>
 </project>
