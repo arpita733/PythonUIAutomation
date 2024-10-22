@@ -4,30 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="65e31dd9-e65a-4331-8584-353882fccf3c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Py4XLearningSeleniumPrograms.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.MD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_1_15102024/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_1_15102024/test_Lab01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_1_15102024/test_Lab02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_2_17102024_Selenium/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_2_17102024_Selenium/test_Lab03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_2_17102024_Selenium/test_Lab04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_2_17102024_Selenium/test_Lab05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_2_17102024_Selenium/test_Lab06.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_2_17102024_Selenium/test_Lab07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_3_19102024_Locators/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_3_19102024_Locators/test_Lab08.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_3_19102024_Locators/test_Lab09.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_3_19102024_Locators/test_Lab10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_3_19102024_Locators/test_Lab11.py" afterDir="false" />
+    <list default="true" id="65e31dd9-e65a-4331-8584-353882fccf3c" name="Changes" comment="dasda">
+      <change afterPath="$PROJECT_DIR$/src/Ex_4_22102024_CSS_Selector/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_4_22102024_CSS_Selector/test_Lab12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_4_22102024_CSS_Selector/test_Lab13.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +25,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "PramodDutta"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/PramodDutta/Py4XLearningSeleniumPrograms.git",
+    "accountId": "c24d73df-db27-47a4-81b1-38b9ef6ccae0"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -69,34 +62,21 @@
     "Python tests.Python tests for test_Lab09.test_negative_vwo_login_project2.executor": "Run",
     "Python tests.Python tests for test_Lab10.test_4.executor": "Run",
     "Python tests.Python tests for test_Lab11.test_5.executor": "Run",
+    "Python tests.Python tests for test_Lab13.test_5.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/promode/PycharmProjects/Py4XLearningSeleniumPrograms/src/ex_3_19102024_Locators"
+    "last_opened_file_path": "/Users/promode/PycharmProjects/Py4XLearningSeleniumPrograms/src/Ex_4_22102024_CSS_Selector"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Ex_4_22102024_CSS_Selector" />
       <recent name="$PROJECT_DIR$/src/ex_3_19102024_Locators" />
       <recent name="$PROJECT_DIR$/src/ex_2_17102024_Selenium" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test_Lab11.test_5">
-    <configuration name="Python tests for test_Lab08.test_chrome_current_url_verification" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="Py4XLearningSeleniumPrograms" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_3_19102024_Locators" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab08.test_chrome_current_url_verification&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python tests.Python tests for test_Lab13.test_5">
     <configuration name="Python tests for test_Lab09.test_negative_vwo_free_trail_project3" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Py4XLearningSeleniumPrograms" />
       <option name="ENV_FILES" value="" />
@@ -157,13 +137,28 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests for test_Lab13.test_5" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Py4XLearningSeleniumPrograms" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Ex_4_22102024_CSS_Selector" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Lab13.test_5&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests for test_Lab13.test_5" />
         <item itemvalue="Python tests.Python tests for test_Lab11.test_5" />
         <item itemvalue="Python tests.Python tests for test_Lab10.test_4" />
         <item itemvalue="Python tests.Python tests for test_Lab09.test_negative_vwo_free_trail_project3" />
         <item itemvalue="Python tests.Python tests for test_Lab09.test_negative_vwo_login_project2" />
-        <item itemvalue="Python tests.Python tests for test_Lab08.test_chrome_current_url_verification" />
       </list>
     </recent_temporary>
   </component>
@@ -183,6 +178,19 @@
       <option name="presentableId" value="Default" />
       <updated>1728959000584</updated>
     </task>
+    <task id="LOCAL-00001" summary="dasda">
+      <option name="closed" value="true" />
+      <created>1729306360774</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729306360774</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="dasda" />
+    <option name="LAST_COMMIT_MESSAGE" value="dasda" />
   </component>
 </project>
