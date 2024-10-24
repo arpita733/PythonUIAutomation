@@ -4,13 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="65e31dd9-e65a-4331-8584-353882fccf3c" name="Changes" comment="22nd Oct P2">
-      <change afterPath="$PROJECT_DIR$/src/ex_5_Selenium_24102024/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_5_Selenium_24102024/test_Lab_Selenium_Alerts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_5_Selenium_24102024/test_Lab_Selenium_SVG_Part1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_5_Selenium_24102024/test_Lab_Selenium_SVG_Part2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_5_Selenium_24102024/test_Lab_Selenium_Select.py" afterDir="false" />
+    <list default="true" id="65e31dd9-e65a-4331-8584-353882fccf3c" name="Changes" comment="24th">
+      <change afterPath="$PROJECT_DIR$/src/ex_5_Selenium_24102024/test_Lab_Selenium_Exception_Handle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_5_Selenium_24102024/test_Lab_Selenium_Exception_P1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_5_Selenium_24102024/test_Lab_Selenium_Exception_StaleException.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_5_Selenium_24102024/test_Lab_Selenium_Exception_TimeOutExp.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_5_Selenium_24102024/test_Lab_Selenium_SVG_Part2.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_5_Selenium_24102024/test_Lab_Selenium_SVG_Part2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +69,14 @@
     "Python tests.Python tests for test_Lab13.test_5.executor": "Run",
     "Python tests.Python tests for test_Lab14.test_5.executor": "Run",
     "Python tests.Python tests for test_Lab14_Explicit_Fluent_Wait.test_5.executor": "Run",
+    "Python tests.Python tests for test_Lab_Selenium_Exception_Handle.test_verify_svg.executor": "Run",
+    "Python tests.Python tests for test_Lab_Selenium_Exception_P1.test_verify_svg.executor": "Run",
+    "Python tests.Python tests for test_Lab_Selenium_Exception_StaleException.test_stale_element_exp_demo.executor": "Run",
+    "Python tests.Python tests for test_Lab_Selenium_Exception_StaleException.test_verify_svg.executor": "Run",
+    "Python tests.Python tests for test_Lab_Selenium_Exception_TimeOutExp.test_stale_element_exp_demo.executor": "Run",
     "Python tests.Python tests for test_Lab_Selenium_SVG_Part1.test_alerts_js_alert.executor": "Run",
+    "Python tests.Python tests for test_Lab_Selenium_SVG_Part2.test_alerts_js_alert.executor": "Run",
+    "Python tests.Python tests for test_Lab_Selenium_SVG_Part2.test_verify_svg.executor": "Run",
     "Python tests.Python tests for test_Lab_Selenium_Select.test_alerts_js_alert.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -85,8 +92,8 @@
       <recent name="$PROJECT_DIR$/src/ex_2_17102024_Selenium" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test_Lab_Selenium_SVG_Part2.test_verify_svg">
-    <configuration name="Python tests for src.ex_5_Selenium_24102024.test_Lab_Selenium_Alerts.test_alerts_prompt" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Python tests for test_Lab_Selenium_Exception_TimeOutExp.test_stale_element_exp_demo">
+    <configuration name="Python tests for test_Lab_Selenium_Exception_Handle.test_verify_svg" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Py4XLearningSeleniumPrograms" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -97,11 +104,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;src.ex_5_Selenium_24102024.test_Lab_Selenium_Alerts.test_alerts_prompt&quot;" />
+      <option name="_new_target" value="&quot;test_Lab_Selenium_Exception_Handle.test_verify_svg&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_Lab_Selenium_SVG_Part1.test_alerts_js_alert" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_Lab_Selenium_Exception_P1.test_verify_svg" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Py4XLearningSeleniumPrograms" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -112,11 +119,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab_Selenium_SVG_Part1.test_alerts_js_alert&quot;" />
+      <option name="_new_target" value="&quot;test_Lab_Selenium_Exception_P1.test_verify_svg&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_Lab_Selenium_SVG_Part2.test_alerts_js_alert" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_Lab_Selenium_Exception_StaleException.test_stale_element_exp_demo" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Py4XLearningSeleniumPrograms" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -127,11 +134,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab_Selenium_SVG_Part2.test_alerts_js_alert&quot;" />
+      <option name="_new_target" value="&quot;test_Lab_Selenium_Exception_StaleException.test_stale_element_exp_demo&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_Lab_Selenium_SVG_Part2.test_verify_svg" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_Lab_Selenium_Exception_StaleException.test_verify_svg" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Py4XLearningSeleniumPrograms" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -142,11 +149,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab_Selenium_SVG_Part2.test_verify_svg&quot;" />
+      <option name="_new_target" value="&quot;test_Lab_Selenium_Exception_StaleException.test_verify_svg&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_Lab_Selenium_Select.test_alerts_js_alert" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_Lab_Selenium_Exception_TimeOutExp.test_stale_element_exp_demo" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Py4XLearningSeleniumPrograms" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -157,17 +164,17 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab_Selenium_Select.test_alerts_js_alert&quot;" />
+      <option name="_new_target" value="&quot;test_Lab_Selenium_Exception_TimeOutExp.test_stale_element_exp_demo&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests for test_Lab_Selenium_SVG_Part2.test_verify_svg" />
-        <item itemvalue="Python tests.Python tests for test_Lab_Selenium_SVG_Part2.test_alerts_js_alert" />
-        <item itemvalue="Python tests.Python tests for test_Lab_Selenium_SVG_Part1.test_alerts_js_alert" />
-        <item itemvalue="Python tests.Python tests for test_Lab_Selenium_Select.test_alerts_js_alert" />
-        <item itemvalue="Python tests.Python tests for src.ex_5_Selenium_24102024.test_Lab_Selenium_Alerts.test_alerts_prompt" />
+        <item itemvalue="Python tests.Python tests for test_Lab_Selenium_Exception_TimeOutExp.test_stale_element_exp_demo" />
+        <item itemvalue="Python tests.Python tests for test_Lab_Selenium_Exception_StaleException.test_stale_element_exp_demo" />
+        <item itemvalue="Python tests.Python tests for test_Lab_Selenium_Exception_StaleException.test_verify_svg" />
+        <item itemvalue="Python tests.Python tests for test_Lab_Selenium_Exception_Handle.test_verify_svg" />
+        <item itemvalue="Python tests.Python tests for test_Lab_Selenium_Exception_P1.test_verify_svg" />
       </list>
     </recent_temporary>
   </component>
@@ -211,14 +218,23 @@
       <option name="project" value="LOCAL" />
       <updated>1729565768560</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="24th">
+      <option name="closed" value="true" />
+      <created>1729737547501</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1729737547501</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="dasda" />
     <MESSAGE value="22nd Oct" />
     <MESSAGE value="22nd Oct P2" />
-    <option name="LAST_COMMIT_MESSAGE" value="22nd Oct P2" />
+    <MESSAGE value="24th" />
+    <option name="LAST_COMMIT_MESSAGE" value="24th" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

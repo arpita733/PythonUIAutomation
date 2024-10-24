@@ -14,6 +14,8 @@ def test_verify_svg():
     driver = webdriver.Chrome()
     driver.get("https://www.amcharts.com/svg-maps/?map=india")
 
+    #name() or local-name()
+
     # //*[name()='svg']/*[name()='g'][7]/*[name()='g']/*[name()='g']/*[name()='path']
 
     list_of_states = driver.find_elements(By.XPATH,
