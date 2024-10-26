@@ -4,13 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="65e31dd9-e65a-4331-8584-353882fccf3c" name="Changes" comment="24th">
-      <change afterPath="$PROJECT_DIR$/src/ex_5_Selenium_24102024/test_Lab_Selenium_Exception_Handle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_5_Selenium_24102024/test_Lab_Selenium_Exception_P1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_5_Selenium_24102024/test_Lab_Selenium_Exception_StaleException.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_5_Selenium_24102024/test_Lab_Selenium_Exception_TimeOutExp.py" afterDir="false" />
+    <list default="true" id="65e31dd9-e65a-4331-8584-353882fccf3c" name="Changes" comment="24th P2">
+      <change afterPath="$PROJECT_DIR$/src/ex_6_Selenium_Actions_Class/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_6_Selenium_Actions_Class/test_Lab_Selenium_Actions_P1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_6_Selenium_Actions_Class/test_Lab_Selenium_Actions_P2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_6_Selenium_Actions_Class/test_Lab_Selenium_Actions_P3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_6_Selenium_Actions_Class/test_Lab_Selenium_Actions_makemytrip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_6_Selenium_Actions_Class/test_Lab_Selenium_Windows_Actions_JS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_6_Selenium_Actions_Class/test_Lab_Selenium_Windows_P1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_5_Selenium_24102024/test_Lab_Selenium_SVG_Part2.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_5_Selenium_24102024/test_Lab_Selenium_SVG_Part2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +71,11 @@
     "Python tests.Python tests for test_Lab13.test_5.executor": "Run",
     "Python tests.Python tests for test_Lab14.test_5.executor": "Run",
     "Python tests.Python tests for test_Lab14_Explicit_Fluent_Wait.test_5.executor": "Run",
+    "Python tests.Python tests for test_Lab_Selenium_Actions_P1.test_verify_action_keyboard.executor": "Run",
+    "Python tests.Python tests for test_Lab_Selenium_Actions_P2.test_verify_action_keyboard.executor": "Run",
+    "Python tests.Python tests for test_Lab_Selenium_Actions_P3.test_verify_action_keyboard.executor": "Run",
+    "Python tests.Python tests for test_Lab_Selenium_Actions_makemytrip.test_verify_action_keyboard.executor": "Run",
+    "Python tests.Python tests for test_Lab_Selenium_Actions_makemytrip.test_verify_action_makemytrip.executor": "Run",
     "Python tests.Python tests for test_Lab_Selenium_Exception_Handle.test_verify_svg.executor": "Run",
     "Python tests.Python tests for test_Lab_Selenium_Exception_P1.test_verify_svg.executor": "Run",
     "Python tests.Python tests for test_Lab_Selenium_Exception_StaleException.test_stale_element_exp_demo.executor": "Run",
@@ -78,103 +85,107 @@
     "Python tests.Python tests for test_Lab_Selenium_SVG_Part2.test_alerts_js_alert.executor": "Run",
     "Python tests.Python tests for test_Lab_Selenium_SVG_Part2.test_verify_svg.executor": "Run",
     "Python tests.Python tests for test_Lab_Selenium_Select.test_alerts_js_alert.executor": "Run",
+    "Python tests.Python tests for test_Lab_Selenium_Windows_Actions_JS.test_verify_action_makemytrip.executor": "Run",
+    "Python tests.Python tests for test_Lab_Selenium_Windows_P1.test_verify_action_makemytrip.executor": "Run",
+    "Python tests.Python tests in test_Lab_Selenium_Actions_makemytrip.py.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/promode/PycharmProjects/Py4XLearningSeleniumPrograms/src/ex_5_Selenium_24102024"
+    "last_opened_file_path": "/Users/promode/PycharmProjects/Py4XLearningSeleniumPrograms/src/ex_6_Selenium_Actions_Class"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/ex_6_Selenium_Actions_Class" />
       <recent name="$PROJECT_DIR$/src/ex_5_Selenium_24102024" />
       <recent name="$PROJECT_DIR$/src/Ex_4_22102024_CSS_Selector" />
       <recent name="$PROJECT_DIR$/src/ex_3_19102024_Locators" />
       <recent name="$PROJECT_DIR$/src/ex_2_17102024_Selenium" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test_Lab_Selenium_Exception_TimeOutExp.test_stale_element_exp_demo">
-    <configuration name="Python tests for test_Lab_Selenium_Exception_Handle.test_verify_svg" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Python tests for test_Lab_Selenium_Windows_Actions_JS.test_verify_action_makemytrip">
+    <configuration name="Python tests for test_Lab_Selenium_Actions_makemytrip.test_verify_action_keyboard" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Py4XLearningSeleniumPrograms" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_5_Selenium_24102024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_6_Selenium_Actions_Class" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab_Selenium_Exception_Handle.test_verify_svg&quot;" />
+      <option name="_new_target" value="&quot;test_Lab_Selenium_Actions_makemytrip.test_verify_action_keyboard&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_Lab_Selenium_Exception_P1.test_verify_svg" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_Lab_Selenium_Actions_makemytrip.test_verify_action_makemytrip" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Py4XLearningSeleniumPrograms" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_5_Selenium_24102024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_6_Selenium_Actions_Class" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab_Selenium_Exception_P1.test_verify_svg&quot;" />
+      <option name="_new_target" value="&quot;test_Lab_Selenium_Actions_makemytrip.test_verify_action_makemytrip&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_Lab_Selenium_Exception_StaleException.test_stale_element_exp_demo" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_Lab_Selenium_Windows_Actions_JS.test_verify_action_makemytrip" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Py4XLearningSeleniumPrograms" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_5_Selenium_24102024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_6_Selenium_Actions_Class" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab_Selenium_Exception_StaleException.test_stale_element_exp_demo&quot;" />
+      <option name="_new_target" value="&quot;test_Lab_Selenium_Windows_Actions_JS.test_verify_action_makemytrip&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_Lab_Selenium_Exception_StaleException.test_verify_svg" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_Lab_Selenium_Windows_P1.test_verify_action_makemytrip" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Py4XLearningSeleniumPrograms" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_5_Selenium_24102024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_6_Selenium_Actions_Class" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab_Selenium_Exception_StaleException.test_verify_svg&quot;" />
+      <option name="_new_target" value="&quot;test_Lab_Selenium_Windows_P1.test_verify_action_makemytrip&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_Lab_Selenium_Exception_TimeOutExp.test_stale_element_exp_demo" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests in test_Lab_Selenium_Actions_makemytrip.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Py4XLearningSeleniumPrograms" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_5_Selenium_24102024" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_6_Selenium_Actions_Class" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab_Selenium_Exception_TimeOutExp.test_stale_element_exp_demo&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/src/ex_6_Selenium_Actions_Class/test_Lab_Selenium_Actions_makemytrip.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests for test_Lab_Selenium_Exception_TimeOutExp.test_stale_element_exp_demo" />
-        <item itemvalue="Python tests.Python tests for test_Lab_Selenium_Exception_StaleException.test_stale_element_exp_demo" />
-        <item itemvalue="Python tests.Python tests for test_Lab_Selenium_Exception_StaleException.test_verify_svg" />
-        <item itemvalue="Python tests.Python tests for test_Lab_Selenium_Exception_Handle.test_verify_svg" />
-        <item itemvalue="Python tests.Python tests for test_Lab_Selenium_Exception_P1.test_verify_svg" />
+        <item itemvalue="Python tests.Python tests for test_Lab_Selenium_Windows_Actions_JS.test_verify_action_makemytrip" />
+        <item itemvalue="Python tests.Python tests for test_Lab_Selenium_Windows_P1.test_verify_action_makemytrip" />
+        <item itemvalue="Python tests.Python tests for test_Lab_Selenium_Actions_makemytrip.test_verify_action_makemytrip" />
+        <item itemvalue="Python tests.Python tests in test_Lab_Selenium_Actions_makemytrip.py" />
+        <item itemvalue="Python tests.Python tests for test_Lab_Selenium_Actions_makemytrip.test_verify_action_keyboard" />
       </list>
     </recent_temporary>
   </component>
@@ -226,7 +237,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729737547501</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="24th P2">
+      <option name="closed" value="true" />
+      <created>1729738652808</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1729738652808</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -234,7 +253,8 @@
     <MESSAGE value="22nd Oct" />
     <MESSAGE value="22nd Oct P2" />
     <MESSAGE value="24th" />
-    <option name="LAST_COMMIT_MESSAGE" value="24th" />
+    <MESSAGE value="24th P2" />
+    <option name="LAST_COMMIT_MESSAGE" value="24th P2" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
