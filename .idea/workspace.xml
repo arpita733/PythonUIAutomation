@@ -4,18 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="65e31dd9-e65a-4331-8584-353882fccf3c" name="Changes" comment="26th">
-      <change afterPath="$PROJECT_DIR$/src/Ex_8_Arpita/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_8_Arpita/lab01_Locator1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_8_Arpita/lab02_openCartReg_failure_Reg.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_8_Arpita/lab03_ebay.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_8_Arpita/lab04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_8_Arpita/lab05_openCartReg_Success_Registration.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_8_Arpita/lab06_awesomeqa_Success.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Py4XLearningSeleniumPrograms.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Py4XLearningSeleniumPrograms.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="65e31dd9-e65a-4331-8584-353882fccf3c" name="Changes" comment="Selenium with Python">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_2_17102024_Selenium/test_Lab05.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_2_17102024_Selenium/test_Lab05--chromebrowser.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,6 +106,7 @@
     "Python tests.Python tests for test_Lab_Selenium_Windows_P1.test_verify_action_makemytrip.executor": "Run",
     "Python tests.Python tests in lab03_ebay.py.executor": "Run",
     "Python tests.Python tests in lab05_openCartReg_Success Registration.py.executor": "Run",
+    "Python tests.Python tests in lab05_openCartReg_Success_Registration.py.executor": "Run",
     "Python tests.Python tests in lab06_awesomeqa_Success.py.executor": "Run",
     "Python tests.Python tests in test_Lab_Selenium_Actions_makemytrip.py.executor": "Run",
     "Python tests.Python tests in test_Lab_Selenium_Organize_CODE.py.executor": "Run",
@@ -136,7 +127,7 @@
       <recent name="$PROJECT_DIR$/src/Ex_4_22102024_CSS_Selector" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests in lab06_awesomeqa_Success.py">
+  <component name="RunManager" selected="Python tests.Python tests in lab05_openCartReg_Success_Registration.py">
     <configuration name="Python tests for lab05_openCartReg_Success_Registration.test_success_registration" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Py4XLearningSeleniumPrograms" />
       <option name="ENV_FILES" value="" />
@@ -214,11 +205,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Python tests in lab05_openCartReg_Success_Registration.py" />
         <item itemvalue="Python tests.Python tests in lab06_awesomeqa_Success.py" />
         <item itemvalue="Python tests.Python tests for lab06_awesomeqa_Success.test_validate_elements" />
         <item itemvalue="Python tests.Python tests in lab03_ebay.py" />
         <item itemvalue="Python tests.Python tests for lab05_openCartReg_Success_Registration.test_success_registration" />
-        <item itemvalue="Python tests.Python tests in lab05_openCartReg_Success_Registration.py" />
       </list>
     </recent_temporary>
   </component>
@@ -286,7 +277,23 @@
       <option name="project" value="LOCAL" />
       <updated>1729911328164</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Selenium with Python">
+      <option name="closed" value="true" />
+      <created>1731925228901</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1731925228901</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Selenium with Python">
+      <option name="closed" value="true" />
+      <created>1731925411704</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1731925411704</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -296,7 +303,8 @@
     <MESSAGE value="24th" />
     <MESSAGE value="24th P2" />
     <MESSAGE value="26th" />
-    <option name="LAST_COMMIT_MESSAGE" value="26th" />
+    <MESSAGE value="Selenium with Python" />
+    <option name="LAST_COMMIT_MESSAGE" value="Selenium with Python" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
