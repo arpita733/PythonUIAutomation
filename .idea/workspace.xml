@@ -5,13 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="65e31dd9-e65a-4331-8584-353882fccf3c" name="Changes" comment="26th">
-      <change afterPath="$PROJECT_DIR$/src/ex_7_JS_Execute/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_7_JS_Execute/test_Lab_Selenium_JS_P1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_7_JS_Execute/test_Lab_Selenium_JS_P2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_7_JS_Execute/test_Lab_Selenium_JS_P3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_7_JS_Execute/test_Lab_Selenium_JS_P4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_7_JS_Execute/test_Lab_Selenium_Organize_CODE.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_8_Arpita/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_8_Arpita/lab01_Locator1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_8_Arpita/lab02_openCartReg_failure_Reg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_8_Arpita/lab03_ebay.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_8_Arpita/lab04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_8_Arpita/lab05_openCartReg_Success_Registration.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_8_Arpita/lab06_awesomeqa_Success.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Py4XLearningSeleniumPrograms.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Py4XLearningSeleniumPrograms.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_2_17102024_Selenium/test_Lab05.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_2_17102024_Selenium/test_Lab05--chromebrowser.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +41,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/PramodDutta/Py4XLearningSeleniumPrograms.git&quot;,
-    &quot;accountId&quot;: &quot;c24d73df-db27-47a4-81b1-38b9ef6ccae0&quot;
+    &quot;accountId&quot;: &quot;474ce4c0-3db2-44d1-aae6-4c2bc6697ee9&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -55,6 +59,21 @@
   "keyToString": {
     "Python tests.Python tests for Lab_Selenium_Alerts.test_alerts.executor": "Run",
     "Python tests.Python tests for Lab_Selenium_Alerts.test_alerts_prompt.executor": "Run",
+    "Python tests.Python tests for lab01_Locator1.test_count_of_link_in_screen.executor": "Run",
+    "Python tests.Python tests for lab01_Locator1.test_email_verification.executor": "Run",
+    "Python tests.Python tests for lab01_Locator1.test_link.executor": "Run",
+    "Python tests.Python tests for lab02_openCartReg.test_Open_Cart_Registration.executor": "Run",
+    "Python tests.Python tests for lab02_openCartReg_Success Registration.test_Open_Cart_Registration.executor": "Run",
+    "Python tests.Python tests for lab02_openCartReg_Success Registration.test_Open_Cart_Registration_positive.executor": "Run",
+    "Python tests.Python tests for lab03.test_abc.executor": "Run",
+    "Python tests.Python tests for lab03.test_price_item.executor": "Run",
+    "Python tests.Python tests for lab03_ebay.test_price_item.executor": "Run",
+    "Python tests.Python tests for lab04.test_xpath_container_title_price.executor": "Run",
+    "Python tests.Python tests for lab05_openCartReg_Success Registration.test_Open_Cart_Registration_positive.executor": "Run",
+    "Python tests.Python tests for lab05_openCartReg_Success Registration.test_success_registration.executor": "Debug",
+    "Python tests.Python tests for lab05_openCartReg_Success_Registration.test_success_registration.executor": "Run",
+    "Python tests.Python tests for lab06_awesomeqa_Success.test_validate_elements.executor": "Run",
+    "Python tests.Python tests for tab01_Locator1.test.executor": "Run",
     "Python tests.Python tests for test_Lab01.test_sample.executor": "Run",
     "Python tests.Python tests for test_Lab02.test_open_vwo_login.executor": "Run",
     "Python tests.Python tests for test_Lab03.test_open_vwo_login.executor": "Run",
@@ -63,6 +82,7 @@
     "Python tests.Python tests for test_Lab06.test_chrome_current_url_verification.executor": "Run",
     "Python tests.Python tests for test_Lab07.test_chrome_current_url_verification.executor": "Run",
     "Python tests.Python tests for test_Lab08.test_chrome_current_url_verification.executor": "Run",
+    "Python tests.Python tests for test_Lab08.test_negative_vwo_login_project2.executor": "Run",
     "Python tests.Python tests for test_Lab09.test_negative_vwo_free_trail_project3.executor": "Run",
     "Python tests.Python tests for test_Lab09.test_negative_vwo_login_project2.executor": "Run",
     "Python tests.Python tests for test_Lab10.test_4.executor": "Run",
@@ -94,113 +114,118 @@
     "Python tests.Python tests for test_Lab_Selenium_Select.test_alerts_js_alert.executor": "Run",
     "Python tests.Python tests for test_Lab_Selenium_Windows_Actions_JS.test_verify_action_makemytrip.executor": "Run",
     "Python tests.Python tests for test_Lab_Selenium_Windows_P1.test_verify_action_makemytrip.executor": "Run",
+    "Python tests.Python tests in lab03_ebay.py.executor": "Run",
+    "Python tests.Python tests in lab05_openCartReg_Success Registration.py.executor": "Run",
+    "Python tests.Python tests in lab06_awesomeqa_Success.py.executor": "Run",
     "Python tests.Python tests in test_Lab_Selenium_Actions_makemytrip.py.executor": "Run",
     "Python tests.Python tests in test_Lab_Selenium_Organize_CODE.py.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/promode/PycharmProjects/Py4XLearningSeleniumPrograms/src/ex_7_JS_Execute"
+    "last_opened_file_path": "D:/PythonProgByPramod/Py4XLearningSeleniumPrograms/src/Ex_8_Arpita",
+    "run.code.analysis.last.selected.profile": "aDefault",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PythonProgByPramod\Py4XLearningSeleniumPrograms\src\Ex_8_Arpita" />
       <recent name="$PROJECT_DIR$/src/ex_7_JS_Execute" />
       <recent name="$PROJECT_DIR$/src/ex_6_Selenium_Actions_Class" />
       <recent name="$PROJECT_DIR$/src/ex_5_Selenium_24102024" />
       <recent name="$PROJECT_DIR$/src/Ex_4_22102024_CSS_Selector" />
-      <recent name="$PROJECT_DIR$/src/ex_3_19102024_Locators" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test_Lab_Selenium_JS_P4.test_showdow_dom_js">
-    <configuration name="Python tests for test_Lab_Selenium_JS_P4.test_js" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Python tests in lab06_awesomeqa_Success.py">
+    <configuration name="Python tests for lab05_openCartReg_Success_Registration.test_success_registration" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Py4XLearningSeleniumPrograms" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_7_JS_Execute" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Ex_8_Arpita" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab_Selenium_JS_P4.test_js&quot;" />
+      <option name="_new_target" value="&quot;lab05_openCartReg_Success_Registration.test_success_registration&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_Lab_Selenium_JS_P4.test_showdow_dom_js" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for lab06_awesomeqa_Success.test_validate_elements" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Py4XLearningSeleniumPrograms" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_7_JS_Execute" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Ex_8_Arpita" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab_Selenium_JS_P4.test_showdow_dom_js&quot;" />
+      <option name="_new_target" value="&quot;lab06_awesomeqa_Success.test_validate_elements&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_Lab_Selenium_Organize_CODE.TestSelenium" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests in lab03_ebay.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Py4XLearningSeleniumPrograms" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_7_JS_Execute" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Ex_8_Arpita" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab_Selenium_Organize_CODE.TestSelenium&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/src/Ex_8_Arpita/lab03_ebay.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_Lab_Selenium_Organize_CODE.TestSelenium.test_js" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests in lab05_openCartReg_Success_Registration.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Py4XLearningSeleniumPrograms" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_7_JS_Execute" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Ex_8_Arpita" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_Lab_Selenium_Organize_CODE.TestSelenium.test_js&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/src/Ex_8_Arpita/lab05_openCartReg_Success_Registration.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests in test_Lab_Selenium_Organize_CODE.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests in lab06_awesomeqa_Success.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="Py4XLearningSeleniumPrograms" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/ex_7_JS_Execute" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/Ex_8_Arpita" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/src/ex_7_JS_Execute/test_Lab_Selenium_Organize_CODE.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/src/Ex_8_Arpita/lab06_awesomeqa_Success.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests for test_Lab_Selenium_JS_P4.test_showdow_dom_js" />
-        <item itemvalue="Python tests.Python tests for test_Lab_Selenium_JS_P4.test_js" />
-        <item itemvalue="Python tests.Python tests for test_Lab_Selenium_Organize_CODE.TestSelenium.test_js" />
-        <item itemvalue="Python tests.Python tests for test_Lab_Selenium_Organize_CODE.TestSelenium" />
-        <item itemvalue="Python tests.Python tests in test_Lab_Selenium_Organize_CODE.py" />
+        <item itemvalue="Python tests.Python tests in lab06_awesomeqa_Success.py" />
+        <item itemvalue="Python tests.Python tests for lab06_awesomeqa_Success.test_validate_elements" />
+        <item itemvalue="Python tests.Python tests in lab03_ebay.py" />
+        <item itemvalue="Python tests.Python tests for lab05_openCartReg_Success_Registration.test_success_registration" />
+        <item itemvalue="Python tests.Python tests in lab05_openCartReg_Success_Registration.py" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-5b207ade9991-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.17890.14" />
+        <option value="bundled-python-sdk-ce3d9afa04ac-ba05f1cad1b1-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.20224.347" />
       </set>
     </attachedChunks>
   </component>
@@ -276,10 +301,18 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="robot-line">
-          <url>file://$PROJECT_DIR$/src/Ex_4_22102024_CSS_Selector/test_Lab14_Explicit_Fluent_Wait.py</url>
-          <line>50</line>
-          <option name="timeStamp" value="1" />
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/ex_2_17102024_Selenium/test_Lab05--chromebrowser.py</url>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/ex_3_19102024_Locators/test_Lab08.py</url>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/ex_3_19102024_Locators/test_Lab08.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
